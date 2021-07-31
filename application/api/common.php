@@ -22,4 +22,4 @@ function error_r($msg = 'error', $data = '', $code = 401)
     return json($ret);
 }
 
-echo '提测';
+echo '开发666';
