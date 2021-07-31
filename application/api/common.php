@@ -22,5 +22,5 @@ function error_r($msg = 'error', $data = '', $code = 401)
     return json($ret);
 }
 
-echo '996';
 echo '007';
+echo '996';
