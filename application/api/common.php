@@ -21,3 +21,5 @@ function error_r($msg = 'error', $data = '', $code = 401)
     ];
     return json($ret);
 }
+
+echo '开发';
